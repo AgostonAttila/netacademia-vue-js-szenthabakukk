@@ -11,10 +11,6 @@ https://www.facebook.com/groups/364060044017273/
 * dosa.balint@netacademia.hu
 * oktatok@netacademia.hu
 
-## Háttérzene :)
-
-https://www.youtube.com/watch?v=200u13IEkbk
-
 ## 1. alkalom - 2018 május 1.
 
 ### 1/1. feladat - DevTools
@@ -91,3 +87,31 @@ Kiadásainkat listázzuk majd és számítjuk ki az összegüket.
 
 https://github.com/dosabalint/webfejleszto-javascript-03-03
 
+## 4. alkalom - 2018 május 10.
+
+### 4/1. feladat - Amőba
+
+**Feladat**
+
+Négyzetrácson gyalogolva X és O karakterekkel játszhatunk.
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-javascript-04-01
+
+## 5. alkalom - 2018 május 15.
+
+### 5/1. feladat - Memóriajáték
+
+**Feladat**
+
+Kártyákat töltünk majd fel értékekkel, amikre kattintva azok "megfordulnak".
+Mindezt úgy csináljuk, hogy a kártyának mint objektumnak már saját felelősségei lesznek.
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-javascript-05-01
+
+## Háttérzene
+
+https://www.youtube.com/watch?v=200u13IEkbk
