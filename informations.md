@@ -112,6 +112,42 @@ Mindezt úgy csináljuk, hogy a kártyának mint objektumnak már saját felelő
 
 https://github.com/dosabalint/webfejleszto-javascript-05-01
 
+## 6. alkalom - 2018 május 17.
+
+### 6/1. feladat - Catch
+
+**Feladat**
+
+Zuhanó labdákat kapkodunk majd el egy dobozzal. A doboz az egérre reagálva mozog majd jobbra-balra.
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-javascript-06-01
+
+## 7. alkalom - 2018 május 22.
+
+### 7/1. feladat - Snake
+
+**Feladat**
+
+Kígyóval navigálunk a négyzetrácson, almákat kergetve.
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-javascript-07-01
+
+## 8. alkalom - 2018 május 24.
+
+### 8/1. feladat - Flappy Bird
+
+**Feladat**
+
+Madárral röpködünk majd oszlopok között.
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-javascript-08-01
+
 ## Háttérzene
 
 https://www.youtube.com/watch?v=200u13IEkbk
